@@ -1,0 +1,17 @@
+
+ *Variable: es un forma de guardar datos que vamos a usar mas adelante. Los llamamos con nombres simbolicos, que nos permitas identificarlos facilmente.
+
+ * "strings": Son conjunto de caracteres (letras o numeros) que se escriben siempre entre comillas, y representan un valor.
+
+ * funciones: Las funciones son un conjunto de instrucciones que establecen que tareas se van a hacer. 
+Las funciones pueden estar acompañadas de ARGUMENTOS. 
+ *Los argumentos son los parametros con los que trabajara la variable.
+ * return:  se utiliza para pedirle a la funcion que nos devuelva un valor. es decir, que la saque de la funcion y la muestre.
+
+ * DECLARACIONES IF: son una forma de condicional. Donde podremos comparar datos, y analizar  que pasa si se cumple con la funcion o no.
+Si la cumple (TRUE), al sistema aplica las funciones que esten dentro de la misma. Sino no hara nada y devolvera False.
+
+ * booleanos: son variables que solo pueden tener 2 valores posibles TRUE or False. 
+
+
+
